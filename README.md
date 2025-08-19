@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhangi1998Sharma
 - 👀 I’m interested in Developing Softwares
-- 🌱 I’m currently learning ReactJS
+- Test them and automate them
 
 
 <!---
